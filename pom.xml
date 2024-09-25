@@ -10,7 +10,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <commonslb.dir>com.github.laim0nas100.Commons</commonslb.dir>
-        <commonslb.ver>2024.04v3</commonslb.ver>
+        <commonslb.ver>2024.06v1</commonslb.ver>
         <spring.version>5.3.26</spring.version>
     </properties>
     <repositories>
